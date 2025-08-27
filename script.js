@@ -1,8 +1,0 @@
-{
-    "workbench.colorTheme": "Default Dark+",
-    "editor.minimap.enabled": true,
-    "editor.wordWrap": "on",
-    "editor.formatOnSave": true,
-    "files.autoSave": "afterDelay",
-    "workbench.editor.labelFormat": "short"
-}
